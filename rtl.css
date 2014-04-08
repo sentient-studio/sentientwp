@@ -1,0 +1,85 @@
+/************************************************************************************************************************/
+/* http://codex.wordpress.org/Right_to_Left_Language_Support
+/************************************************************************************************************************/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+  }
+
+/************************************************************************************************************************/
+/* Site specific styles
+/************************************************************************************************************************/
+pre {
+	margin-right: 1.5em;
+	white-space: pre-line;
+	}
+
+blockquote {
+	border-right: 0.25em solid #eee;
+	border-left: none;
+	margin: 1em 1.5em 0;
+	padding: 0 1.25em 0 1.5em;
+	}
+
+li,
+dd {
+	margin-right: 1.5em;
+	}
+
+figcaption {
+	clear: right;
+	}
+
+figcaption > * {
+	clear: right;
+	}
+
+figcaption h4 {
+	clear: right;
+	}
+
+ol.code {
+	margin: 1em 2.5em 1.5em 0;
+	}
+
+ol.code li.tab1 {
+	padding-right: 4ex;
+	}
+
+ol.code li.tab2 {
+	padding-right: 8ex;
+	}
+
+ol.code li.tab3 {
+	padding-right: 12ex;
+	}
+
+ol.code li.tab4 {
+	padding-right: 16ex;
+	}
+
+li.media {
+	margin-right: 0;
+	}
+
+caption {
+	text-align: right;
+	}
+
+table th,
+table td {
+	text-align: right;
+	}
+	
+.row {
+	margin-right: 0!important;
+	}
+
+.pagination ul > li {
+	margin-right: 0;
+	}
+
+ul.info {
+	margin-right: -20px;
+	list-style: none;
+	}

@@ -1,0 +1,18 @@
+/********************************************************************************************
+
+Theme Name: Sentient
+Theme URI: http://www.sentient-theme.com
+Description: For beautiful responsive text...
+Version: 1.0
+Tags: black, gray, one-column, fixed-width, custom-menu, featured-images, sticky-post, translation-ready, rtl-language-support, editor-style
+Author: Sentient Studio
+Author URI: http://www.sentient-studio.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*********************************************************************************************/
+@import url("bootstrap/css/bootstrap.min.css");
+@import url("bootstrap/css/bootstrap-responsive.min.css");
+@import url("bootstrap/font-awesome/css/font-awesome.min.css");
+@import url("bootstrap/css/sentientwp-master.css");
+/* @import url("bootstrap/css/yummi-loader.css"); */

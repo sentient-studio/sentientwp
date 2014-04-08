@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sentient WordPress Theme\n"
+"POT-Creation-Date: 2013-08-23 09:49+0100\n"
+"PO-Revision-Date: 2013-08-23 09:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: Sentient Studio <support@sentient-theme.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:17
+msgid "You cannot access this file directly."
+msgstr ""
+
+#: ../comments.php:34 ../index.php:51
+msgid "Older"
+msgstr ""
+
+#: ../comments.php:35 ../index.php:52
+msgid "Newer"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:71 ../includes/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:72 ../includes/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:73 ../includes/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:74
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:85 ../includes/class-tgm-plugin-activation.php:178
+#: ../includes/class-tgm-plugin-activation.php:497
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:86 ../includes/class-tgm-plugin-activation.php:179
+#: ../includes/class-tgm-plugin-activation.php:1853
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:87
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:198
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:231
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:251
+msgid "Post author"
+msgstr ""
+
+#: ../functions.php:257
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:267
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:279
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:313
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:315
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:330
+msgid "One comment"
+msgstr ""
+
+#: ../functions.php:331
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../functions.php:332
+msgid "No comments"
+msgstr ""
+
+#: ../functions.php:335
+msgid "One pingback/trackback"
+msgstr ""
+
+#: ../functions.php:336
+msgid "% pingbacks/trackbacks"
+msgstr ""
+
+#: ../functions.php:337
+msgid "No pinbacks/trackbacks"
+msgstr ""
+
+#: ../functions.php:340
+msgid "One trackback"
+msgstr ""
+
+#: ../functions.php:341
+msgid "% trackbacks"
+msgstr ""
+
+#: ../functions.php:342
+msgid "No trackbacks"
+msgstr ""
+
+#: ../functions.php:345
+msgid "One pingback"
+msgstr ""
+
+#: ../functions.php:346
+msgid "% pingbacks"
+msgstr ""
+
+#: ../functions.php:347
+msgid "No pingbacks"
+msgstr ""
+
+#: ../functions.php:374
+msgid "ago"
+msgstr ""
+
+#: ../functions.php:387
+msgid "Next page"
+msgstr ""
+
+#: ../functions.php:388
+msgid "Previous page"
+msgstr ""
+
+#: ../functions.php:730
+msgid "Twitter Username <span class=\"description\">(required)</span>"
+msgstr ""
+
+#: ../functions.php:760
+msgid ""
+"<div class=\"update-nag\">\n"
+"             <strong>Information about Sentient Theme, menus, media, Twitter "
+"and sample data under &#8216;Help&#8217; &rarr;</strong>\n"
+"         </div>"
+msgstr ""
+
+#: ../functions.php:786
+msgid "Overview"
+msgstr ""
+
+#: ../functions.php:792
+msgid "Menus"
+msgstr ""
+
+#: ../functions.php:798
+msgid "Media"
+msgstr ""
+
+#: ../functions.php:804
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:810
+msgid "Sample Data"
+msgstr ""
+
+#: ../functions.php:817
+msgid "More information:"
+msgstr ""
+
+#: ../functions.php:818
+msgid ""
+"<a href=\"http://codex.wordpress.org/Edit_Media\" title=\"WordPress.org "
+"Editing Media\" target=\"_blank\">Editing Media</a>"
+msgstr ""
+
+#: ../functions.php:819
+msgid ""
+"<a href=\"http://codex.wordpress.org/Embeds\" title=\"WordPress.org Embeds\" "
+"target=\"_blank\">Embed Video</a>"
+msgstr ""
+
+#: ../functions.php:820
+msgid ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+
+#: ../functions.php:827
+msgid ""
+"\n"
+"        <h3>Sentient &ndash; Overview</h3>        \t       \n"
+"        <p><strong>Sentient</strong> eliminates all of the unnecessary "
+"elements found in typical WordPress themes allowing you to focus on "
+"beautiful responsive text. <strong>Sentient</strong> provides a distraction-"
+"free writing and reading experience for you and your audience with "
+"uncluttered and sophisticated presentation of your content on desktop and "
+"mobile devices&hellip;</p>\n"
+"        "
+msgstr ""
+
+#: ../functions.php:834
+msgid ""
+"\n"
+"        <h3>Sentient &ndash; Menus</h3>      \t       \n"
+"        <p><strong>Sentient</strong> supports custom menus with dropdown "
+"items. <strong>To use:</strong> go to &#8216;Appearance > Menus&#8217; and "
+"create a blank top level &#8216;Links&#8217; item. In the &#8216;URL&#8217; "
+"field delete &#8216;http://&#8217; and enter a hash (#). Enter your &#8216;"
+"Link Text&#8217; and click &#8216;Add to Menu&#8217;.</p>\n"
+"          <img src=\"http://www.sentient-theme.com/theme-help/img/menu_help."
+"jpg\" /> \n"
+"        <p>Drag your menu sub items below your newly created top level item. "
+"Save Menu.</p>\n"
+"        "
+msgstr ""
+
+#: ../functions.php:843
+msgid ""
+"\n"
+"        <h3>Sentient &ndash; Media</h3>       \t       \n"
+"        <p>For <strong>Sentient</strong> to display images optimally on "
+"desktop, laptop, tablet and mobile devices please ensure all images are at "
+"<strong>690 pixels wide</strong> in either landscape and portrait "
+"orientation.</p>\n"
+"        <p>Retina HD images are supported by installing the recommended "
+"&#8216;WP-Retina&#8217; plugin. See the <a href=\"http://wordpress.org/"
+"plugins/wp-retina-2x/\" target=\"_blank\">WordPress.org WP Retina plugin "
+"page</a> for more information.</p>               \t       \n"
+"        <p><strong>Sentient</strong> supports responsive video from YouTube "
+"and Vimeo in posts and pages. For example:</p>\n"
+"        <code>\n"
+"        Check out this cool video:<br />      \n"
+"        http://youtu.be/9bZkp7q19f0<br />      \n"
+"        That was a cool video.\n"
+"        </code>\n"
+"        <p><strong>Important:</strong> the video URL <strong>must</strong> "
+"be on its own line in your post.</p>       \n"
+"        <p>For detailed instructions on using the WordPress &#8216;"
+"Embeds&#8217; function for video see &#8216;Embed Video&#8217; under &#8216;"
+"More information&#8217;.</p>\n"
+"        "
+msgstr ""
+
+#: ../functions.php:859
+msgid ""
+"\n"
+"        <h3>Sentient &ndash; Twitter</h3>     \t       \n"
+"        <p><strong>Sentient</strong> supports Tweeting on any post. "
+"<strong>To use:</strong> enter your &#8216;Twitter Username&#8217; in &#8216;"
+"Users&#8217;, &#8216;Your Profile&#8217; under &#8216;Contact "
+"Information&#8217; (without the &#8216;&#64;&#8217; symbol).</p>\n"
+"        "
+msgstr ""
+
+#: ../functions.php:866
+msgid ""
+"\n"
+"        <h3>Sentient &ndash; Sample Data</h3>     \t       \n"
+"        <p><strong>Sentient</strong> includes a complete sample data file. "
+"Sample data is great for those who don&#8217;t want to start a new WordPress "
+"site from scratch, or for those who just want to see how the demo is put "
+"together.</p>\n"
+"        <p>To import the sample data into the Sentient theme follow these "
+"steps:</p>\n"
+"        <ol>\n"
+"          <li>Locate the sample data XML file included with the theme "
+"download package at root level in a folder called XML</li>\n"
+"          <li>Go to Tools: Import in the WordPress admin panel</li>\n"
+"          <li>Install the \"WordPress\" importer from the list</li>\n"
+"          <li>Upload the sample data XML file using the form provided on "
+"that page</li>\n"
+"          <li>You will first be asked to map the authors in this export file "
+"to users on the site. You may choose to map to an existing user on the site "
+"&ndash; usually &#8216;Admin&#8217; &ndash;  or to create a new user</li>\n"
+"          <li>WordPress will then import each of the menus, posts, pages, "
+"comments, categories, etc. contained in this file into your site</li>\n"
+"        </ol> \n"
+"        "
+msgstr ""
+
+#: ../index.php:34
+msgid "Read post"
+msgstr ""
+
+#: ../index.php:42 ../page.php:37 ../single.php:45
+msgid "No posts were found!"
+msgstr ""
+
+#: ../page.php:29
+msgid "Pages:"
+msgstr ""
+
+#: ../page.php:30 ../single.php:36
+msgid "Edit"
+msgstr ""
+
+#: ../single.php:33
+msgid "Previous"
+msgstr ""
+
+#: ../single.php:34
+msgid "Next"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:524
+#: ../includes/class-tgm-plugin-activation.php:2065
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:552
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:711
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1098
+msgid "External Link"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1103
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1106
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1110
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1113
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1113
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1116
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1118
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1288
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1304
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1305
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1306
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1307
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1325
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1326
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1551
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:1836
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1837
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1838
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1839
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1841
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1852
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1963
+#: ../includes/class-tgm-plugin-activation.php:1972
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1963
+#: ../includes/class-tgm-plugin-activation.php:1972
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1964
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1969
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1970
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1971
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1972
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1973
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1974
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""

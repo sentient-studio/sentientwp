@@ -20,6 +20,7 @@
  define('THEMEROOT', get_stylesheet_directory_uri());
  define('IMAGES', THEMEROOT . '/bootstrap/img/');
  define('JAVASCRIPT', THEMEROOT . '/bootstrap/js/');
+ define('ICONS', THEMEROOT . '/bootstrap/img/icons/');
  
 /*----------------------------------------------------------------------------------------------------------------------*/
 /*  TGM Plugin Activation

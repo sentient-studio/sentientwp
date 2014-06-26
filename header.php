@@ -11,10 +11,8 @@
     <meta name="author" content="">    
 
     <!-- Favicon and Touch Icon -->
-    <?php $touchicon_img = ot_get_option('sentientwp_touchicon'); ?>
-    <link rel="apple-touch-icon" sizes="144x144" href="<?php echo $touchicon_img; ?>" />
-    <?php $favicon_img = ot_get_option('sentientwp_favicon'); ?>
-    <link rel="shortcut icon" href="<?php echo $favicon_img; ?>" />
+    <link rel="apple-touch-icon" sizes="144x144" href="<?php print ICONS; ?>apple-touch-icon-72x72.png" />
+    <link rel="shortcut icon" href="<?php print ICONS; ?>favicon.png" />
     <!-- HTML5 shiv, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="<?php print JAVASCRIPT; ?>html5shiv.js"></script>
